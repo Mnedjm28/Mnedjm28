@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [nedjmeddineahmed.com](nedjmeddineahmed.com)
 
-- 💬 Ask me about **Django, Wpf, EntityFrameWork, C#, Python**
+- 💬 Ask me about **Django, Wpf, Entity FrameWork, C#, Python**
 
 - 📫 How to reach me **nedjmeddine.ahmed@gmail.com**
 
